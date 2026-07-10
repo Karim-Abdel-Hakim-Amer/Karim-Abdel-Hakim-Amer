@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**Karim-Abdel-Hakim-Amer/Karim-Abdel-Hakim-Amer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Karim, an aspiring Machine Learning Engineer from Egypt.
 
-Here are some ideas to get you started:
+I build machine learning systems, from collecting & preparing data to training, evaluating, and deploying models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building things from scratch, whether it's machine learning algorithms, neural networks, or software projects
+to understand how they work under the hood.
+
+Tech Stack
+- Languages: Python
+- Machine learning: TensorFlow, Scikit-Learn
+- Currently Learning: PostgreSQL, FastAPI, Docker, AWS, MLflow, PySpark
+
+Most of my repositories focus on:
+- Machine learning projects
+- ML algorithms implemented from scratch
+- End-to-end ML applications with deployment
+
+
+Hobbies: Gym, Creating things from scratch, UFC, Chess.
