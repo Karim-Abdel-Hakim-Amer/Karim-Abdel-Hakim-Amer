@@ -8,7 +8,7 @@ I enjoy building things from scratch, whether it's machine learning algorithms, 
 to understand how they work under the hood.
 
 Tech Stack
-- Languages: Python
+- Languages: Python, C++
 - Machine learning: TensorFlow, Scikit-Learn
 - Currently Learning: PostgreSQL, FastAPI, Docker, Azure, AWS, MLflow, PySpark
 
@@ -17,5 +17,6 @@ Most of my repositories focus on:
 - ML algorithms implemented from scratch
 - End-to-end ML applications with deployment
 - Data Engineering
-
+- Learning focused Python/C++ projects
+  
 Hobbies: Gym, Creating things from scratch, UFC, Chess.
